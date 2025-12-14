@@ -76,8 +76,6 @@
 
 ## 📁 5. 저장소 구조
 - `/data`: 원본 데이터셋 (CSV)
-- `/notebooks`: 분석 코드가 담긴 Jupyter Notebook (.ipynb)
-- `/images`: 분석 결과 그래프 이미지
+- `/OTT_G_img`: 분석 결과 그래프 이미지
 
 ---
-**Contact:** [본인 이메일 주소]
