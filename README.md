@@ -1,4 +1,4 @@
-# 🎬 OTT 플랫폼 간 콘텐츠 구성 및 타겟 전략 비교 분석 프로젝트
+# 🎬 OTT 플랫폼 간 콘텐츠 구성 및 타겟 전략 비교 분석 프로젝트 (2025/12)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
